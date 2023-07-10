@@ -28,4 +28,5 @@ jobs:
         with:
           # Artifact name
           name: ${{ env.ARTIFACT_NAME }}
+          path: ./README.md
 
